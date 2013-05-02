@@ -1,0 +1,8 @@
+This is a sample document.
+
+Number: 1234
+Date: 2/19/2008
+Time: 9:28PM
+Amount: $123.50
+
+Thank You.
